@@ -1,0 +1,44 @@
+STRING CONCATENATION
+# Defining strings
+var1 = "Hello "
+var2 = "World"
+
+# + Operator is used to combine strings
+var3 = var1 + var2
+print(var3)
+
+STRING SLICE
+# Python program to demonstrate
+# string slicing
+
+# String slicing
+String = 'ASTRING'
+
+# Using slice constructor
+s1 = slice(3)
+s2 = slice(1, 5, 2)
+s3 = slice(-1, -12, -2)
+
+print(& quot
+	String slicing & quot
+	)
+print(String[s1])
+print(String[s2])
+print(String[s3])
+
+STRING REVERSE
+# Python code to reverse a string
+# using reversed()
+
+# Function to reverse a string
+def reverse(string):
+	string = "".join(reversed(string))
+	return string
+
+s = "Bharathi"
+
+print("The original string is : ", end="")
+print(s)
+
+print("The reversed string(using reversed) is : ", end="")
+print(reverse(s))
