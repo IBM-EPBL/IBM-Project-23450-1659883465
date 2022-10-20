@@ -1,5 +1,0 @@
-CREATE TABLE Student(E-mail,Username,Roll number,Password);
-INSERT INTO Student(nandhini123@gmail.com,19cs010,123456,Nandy@123);
-INSERT INTO Student(bharathi245@gmail.com,19cs35,123567,Barathi@155);
-INSERT INTO Student(harini10012gmail.com,19cs45,126789,Harini@143);
-INSERT INTO Student(navani16782@gmail.com,19cs015,134568,Navani@134);
